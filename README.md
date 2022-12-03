@@ -1,1 +1,1 @@
-# QM
+# Quantitative Methods
